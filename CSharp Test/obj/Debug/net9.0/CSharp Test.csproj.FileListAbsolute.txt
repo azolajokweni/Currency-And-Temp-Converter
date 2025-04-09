@@ -1,0 +1,4 @@
+C:\Users\SANELE JOKWENI\Desktop\my projects\CSharp Test\obj\Debug\net9.0\CSharp Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANELE JOKWENI\Desktop\my projects\CSharp Test\obj\Debug\net9.0\CSharp Test.AssemblyInfoInputs.cache
+C:\Users\SANELE JOKWENI\Desktop\my projects\CSharp Test\obj\Debug\net9.0\CSharp Test.AssemblyInfo.cs
+C:\Users\SANELE JOKWENI\Desktop\my projects\CSharp Test\obj\Debug\net9.0\CSharp Test.csproj.CoreCompileInputs.cache
